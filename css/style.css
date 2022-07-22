@@ -1,9 +1,13 @@
 :root {
   --color-green: #f3705f;
+  --green1: #9ccb4a;
+  --green2: #1aae59;
+  --green3: #1fb893;
+  --green4: #009047;
   --color-black: #181818;
   --color-white: #ffffff;
 
-  --gradient-primary: linear-gradient(to right, var(--color-purple), var(--color-dark-purple));
+  --gradient-primary: linear-gradient(to right, var(--green1), var(--green2), var(--green3), var(--green4));
   --gradient-secondary: linear-gradient(to top left, var(--color-primary), var(--color-primary), var(--color-secondary));
 }
 
